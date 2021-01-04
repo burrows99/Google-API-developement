@@ -14,5 +14,5 @@
    *  Open the email in and click on 'add key' then click on 'create new key' and select the file type as .json file and download it.
 3. Create a python file (paste the code given in the repositort with name read_write_spreadsheet.py) and keep the .json file in the same folder as the python file.
 4. SERVICE_ACCOUNT_FILE is the name of your .json file
-   SAMPLE_SPREADSHEET_ID is your partial spreadsheet link (for eg. in https://docs.google.com/spreadsheets/d/1XG-sQDgXxVO-b_qXW50cvJnzm2m9eYkHZUAlvMdsBRs/edit#gid=0 everything adter d/ and before /edit is what we are concerned with.)
+   SAMPLE_SPREADSHEET_ID is your partial spreadsheet link (for eg. in https://docs.google.com/spreadsheets/d/1XG-sQDgXxVO-b_qXW50cvJnzm2m9eYkHZUAlvMdsBRs/edit#gid=0 everything after d/ and before /edit is what we are concerned with.)
    
